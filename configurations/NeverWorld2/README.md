@@ -1,0 +1,1 @@
+Please follow the link for configuration files of the [NeverWorld2](https://github.com/ocean-eddy-cpt/NeverWorld2/tree/main/simulations/baselines/nw2_0.25deg_N15_baseline_hmix5) and update them with our MOM_override, input.nml and diag_table files.

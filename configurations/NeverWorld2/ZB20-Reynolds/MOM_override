@@ -1,0 +1,13 @@
+NIGLOBAL = 240
+NJGLOBAL = 560
+DT = 600.
+#override HMIX_UV_SFC_PROP = 5.0
+#override INTERNAL_WAVE_SPEED_BETTER_EST = False
+#override SMAG_BI_CONST = 0.06
+#override USE_ZB2020 = True
+#override ZB_SCALING = 2.5
+#override STRESS_SMOOTH_PASS = 4
+#override VG_SHARP_PASS = 4
+#override ZB_SCHEME = 0
+#override ZB_KLOWER_R_DISS = 1.0
+#override ZB_KLOWER_SHEAR = 1
