@@ -1,4 +1,4 @@
-# Implementation of Zanna-Bolton-2020 to GFDL MOM6 ocean model
+# Implementation of Zanna-Bolton-2020 mesoscale parameterization to GFDL MOM6 ocean model
 This repository describes the implementation of [ZB20](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL088376) parameterization of mesoscale eddies to GFDL [MOM6](https://github.com/NOAA-GFDL/MOM6) ocean model.
 
 The implementation is described in detail in paper "Implementation of a data-driven equation-discovery mesoscale parameterization into an ocean model", Pavel Perezhogin, Cheng Zhang, Alistair Adcroft, Carlos Fernandez-Granda, Laure Zanna, submitted to JAMES.
