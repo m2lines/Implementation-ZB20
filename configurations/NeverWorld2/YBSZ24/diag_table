@@ -41,6 +41,9 @@
 #"ocean_model", "ZB2020v",     "ZB2020v",     "snapshots%8dy",  "all", "none", "none", 2
 #"ocean_model", "KE_ZB2020",   "KE_ZB2020",   "snapshots%8dy",  "all", "none", "none", 2
 #"ocean_model", "KE_horvisc",  "KE_horvisc",  "snapshots%8dy",  "all", "none", "none", 2
+#"ocean_model", "S_11",        "S_11",        "snapshots%8dy",  "all", "none", "none", 2
+#"ocean_model", "S_22",        "S_22",        "snapshots%8dy",  "all", "none", "none", 2
+#"ocean_model", "S_12",        "S_12",        "snapshots%8dy",  "all", "none", "none", 2
 
 #debug
 # "ocean_model", "u",           "u",           "debugs%8dy", "all", "none", "none", 2
